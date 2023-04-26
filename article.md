@@ -176,8 +176,14 @@ You can utilize Glasp's search feature to find any topic or author. To do so:
 
 1. Go to the Home Page and click on the search bar.
 2. Enter any topic or author's name in the search bar to get your results.
-   ![search-user](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821601_Screenshot+from+2023-04-14+18-36-46.png)
-   ![search-topic](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821637_Screenshot+from+2023-04-14+18-33-36.png)
+<table>
+  <tr>
+    <td><img src="https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821601_Screenshot+from+2023-04-14+18-36-46.png" alt="search-user"></td>
+    <td><img src="https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821637_Screenshot+from+2023-04-14+18-33-36.png" alt="search-topic"></td>
+  </tr>
+</table>
+   <!-- ![search-user](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821601_Screenshot+from+2023-04-14+18-36-46.png)
+   ![search-topic](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681493821637_Screenshot+from+2023-04-14+18-33-36.png) -->
 
 ### Find Like-minded people on Glasp
 
