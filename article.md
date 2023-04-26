@@ -16,12 +16,12 @@ What makes Glasp different from your typical web highlighter is the feature that
 
 Using Glasp as your preferred web highlighter offers several benefits, including:
 
-- Highlighting and note-taking: With Glasp, you can highlight important sections of articles and videos and add notes to remember key points.
-- Organisation: Glasp lets you tag your highlights, and save and organise web content in a central location, making it easy to find and access later. You can access your highlights by dates saved, favourite highlights, topics, and more.
-- Sharing: Sharing saved content with others is effortless with Glasp. You can search for specific tags on any topic and find other users' highlights. You can also search for a particular author and see all their highlights.
-- Time-saving: By using Glasp, you can quickly find and revisit important content without searching your browsing history or bookmarks.
-  Improved learning: Glasp's highlighting and note-taking features can help you retain more information from your saved content, improving learning outcomes. You can also learn from other users' highlights on the same topics.
-- Accessibility: Glasp is available on desktops, tablets, and mobile devices, so you can access your highlights and saved content from anywhere.
+- **Highlighting and note-taking:** With Glasp, you can highlight important sections of articles and videos and add notes to remember key points.
+- **Organisation:** Glasp lets you tag your highlights, and save and organise web content in a central location, making it easy to find and access later. You can access your highlights by dates saved, favourite highlights, topics, and more.
+- **Sharing:** Sharing saved content with others is effortless with Glasp. You can search for specific tags on any topic and find other users' highlights. You can also search for a particular author and see all their highlights.
+- **Time-saving:** By using Glasp, you can quickly find and revisit important content without searching your browsing history or bookmarks.
+- **Improved learning:** Glasp's highlighting and note-taking features can help you retain more information from your saved content, improving learning outcomes. You can also learn from other users' highlights on the same topics.
+- **Accessibility:** Glasp is available on desktops, tablets, and mobile devices, so you can access your highlights and saved content from anywhere.
 
 ## Let's explore how you can get started with Glasp
 
@@ -44,7 +44,8 @@ Follow these steps to get started:
 3. Click on “Continue with Google”. A Google account is required to sign up for Glasp.
 4. Select the Google account you wish to sign up with.
 5. Once your account is verified, you will see a popup on the welcome page. Click on the “Go to Home” icon.
-   ![how-to-create-account](https://www.dropbox.com/paper/ep/redirect/image?url=https%3A%2F%2Fpaper-attachments.dropboxusercontent.com%2Fs_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1682239577216_gotohome%2B1.png&hmac=O%2BXhFRBCBZuIBGixyBtuOs0ET5w2MNaadC9Li9kStO0%3D)
+
+![how-to-create-account](https://user-images.githubusercontent.com/91062943/234723761-c24fba49-d3a6-4112-af2f-ff454300ac16.png)
 
 ### Customising preferences for your Glasp account
 
@@ -53,7 +54,7 @@ To get started using Glasp, you must personalise your account by selecting a cat
 1. Once you click the “Go to Home” icon from the procedures above, you will be asked to choose topics to personalise your feed.
 2. Select 1-10 categories. Then click "Save". Glasp then directs you to the dashboard.
 
-![how-to-create-account](https://www.dropbox.com/paper/ep/redirect/image?url=https%3A%2F%2Fpaper-attachments.dropboxusercontent.com%2Fs_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681495672069_Screenshot%2Bfrom%2B2023-04-12%2B23-21-23.png&hmac=Shcm7tNM7SYcBzbM1LuQZmI5xYt3vtrPDDgRW2pBBf0%3D)
+![customize-preferences](https://user-images.githubusercontent.com/91062943/234723647-60524069-74c4-44d1-900d-b62eccd735be.png)
 
 ## Overview of the Glasp dashboard
 
@@ -68,6 +69,7 @@ This tab enables you to follow your preferred authors, and you will likely recei
 ### The My Highlights tab
 
 The My Highlights tab is an exciting feature of Glasp, which includes three components:
+
 ![highlights-tab](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681502374830_my+highlights.png)
 
 - User Profile: This tab displays all your personal information. You can customise your profile, view your stats, and access your atomic graph here. The stats component provides a chart that tracks your highlights by the day they were created. By clicking on any day on the chart, all highlights made on that day will be displayed in the All Content tab. The atomic graph is a chart that shows all tags which you use to save your highlights, with the most used tag as the biggest item on the chart.
@@ -82,7 +84,9 @@ The Explore tab enables you to access more highlights from the wider community a
 
 ## Features of Glasp
 
-With Glasp, you can do more than highlight text on web pages – you can also annotate, search, and even highlight YouTube video transcripts. You can even share your highlights, see the highlights of others, and do so much more. In this section, we'll explore the key features of Glasp and show you how to make the most of this powerful tool.
+With Glasp, you can do more than highlight text on web pages – you can also annotate, search, and even highlight YouTube video transcripts. You can even share your highlights, see the highlights of others, and do so much more. 
+
+Let's explore some key features of Glasp and how to make the most out of this powerful tool.
 
 ### Highlighting any piece of text
 
@@ -93,7 +97,7 @@ The most common task Glasp performs is to highlight text on any webpage. To do t
 3.  When you release, a popup menu will appear.
     ![highlight-text](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681423760877_Screenshot+from+2023-04-13+23-07-31.png)
 
-        On this popup menu, you can select the color you want to use to highlight the text. You can also choose to directly add a note, which will automatically highlight the selected piece of text.
+On this popup menu, you can select the color you want to use to highlight the text. You can also choose to directly add a note, which will automatically highlight the selected piece of text.
 
 ### Highlighting transcripts of YouTube Videos
 
@@ -102,7 +106,9 @@ One of the standout features of Glasp is its unique ability to highlight the tra
 1. Go to the page of the youtube video transcript you want to highlight
 2. Click on the dropdown menu in the "Transcript and Summary" component in the top right corner of the page.
 
-![highlight-youtube-transcript](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681509122216_youtube+glasp.png) 3. The entire transcript of the YouTube video will be generated along with timestamps. Select the text you want to highlight in the same manner you would highlight text on a webpage.
+![highlight-youtube-transcript](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681509122216_youtube+glasp.png)
+
+3. The entire transcript of the YouTube video will be generated along with timestamps. Select the text you want to highlight in the same manner you would highlight text on a webpage.
 
 ### Adding notes to your highlights
 
@@ -111,6 +117,7 @@ Adding notes to your highlights lets you capture your thoughts and ideas as you 
 1. On the webpage of the highlighted text, go to the Glasp icon on the extensions menu and find the highlight you want to add a note to.
 2. Hover over the particular highlight and click the "Add a note" button, or click on the three dots and select “Add a note.”
    ![add-a-note](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681509707169_add+note.png)
+   
 3. Type your note in the text field.
 
 ### Adding tags to the webpage of your highlights
@@ -119,7 +126,8 @@ For each specific page you highlight, you can add tags to that page. Tags help y
 
 1. Go to the webpage that contains your highlights and click on the Glasp icon on the extensions menu.
 2. On the top, you'll see the tags component. Input the tags you want in the box provided.
-   ![add-a-tag](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681510171972_add+tag.png)
+
+![add-a-tag](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681510171972_add+tag.png)
 
 ### Copying the entire transcript of a YouTube videoo
 
@@ -127,7 +135,9 @@ You can also copy the entire transcript of a YouTube video and paste in your fav
 
 1. Click on the dropdown menu in the top right corner of the YouTube page. This action generates the entire transcript.
 2. Click on the copy icon to copy the entire transcript to your clipboard.
-   ![copy-transcript](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681511357839_copy+transcript.png)
+
+![copy-transcript](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681511357839_copy+transcript.png)
+
 3. Open your favourite note-taking app, such as Notion, and paste the copied transcript. This copied text will also include the YouTube video link, any highlights you've made on the video, and metadata about the YouTube page.
 
 ### Generating an AI-powered summary based on your highlights
@@ -145,7 +155,9 @@ You can generate an AI summary based on your highlights on a particular webpage,
 You can also generate an AI summary that summarizes the entire transcript of any YouTube video. Here's how to do it:
 
 1. Click on the dropdown menu in the top right corner of the YouTube page and select the ChatGPT icon in the bar.
-   ![youtube-summary](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681512544433_generate+summary.png)
+
+![youtube-summary](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681512544433_generate+summary.png)
+
 2. You’ll be redirected to a new page where an AI summary, based on the transcript, will be generated for you.
 
 ### Sharing your highlights and saved web pages with others
@@ -155,7 +167,9 @@ To share your highlights and saved web pages with others, follow these steps:
 1. Go to the Glasp dashboard, click on the “My Highlights” tab.
 2. Select the webpage of the particular highlight you want to share.
 3. In the Detailed View component, click on the "Share" option.
-   ![share-highlights](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681513121032_share.png)
+
+![share-highlights](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681513121032_share.png)
+
 4. Choose whether you want to share via link, email, or social media.
 5. If you wish to share via email, enter the recipient's email address and add a message if desired.
 6. If you wish to share via link or social media, copy the link or share it directly to your social media channels.
@@ -168,7 +182,9 @@ You can export your highlights to any Notetaking app like Notion, Obsidian, Drop
 2. Select the webpage of the particular highlight you want to copy.
 3. In the “Detailed View” component, click on the "Copy" icon.
 
-![export-highlights](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681513494390_copy+all.png) 4. Go to your note app, and press Ctrl + V or Cmnd + V(for Mac users). The webpage, all highlights on that webpage, as well as metadata of that page will be copied to that note app.
+![export-highlights](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681513494390_copy+all.png) 
+
+4. Go to your note app, and press Ctrl + V or Cmnd + V(for Mac users). The webpage, all highlights on that webpage, as well as metadata of that page will be copied to that note app.
 
 ### Searching for any Topic or Author on Glasp
 
@@ -202,11 +218,11 @@ Glasp is a versatile tool for managing and sharing your web content effectively.
 
 Here are some best practices to help you get the most out of it:
 
-- Use tags: Organise your highlights and saved web pages into categories using descriptive tags, making it easier to find them later.
-- Review your highlights: Set aside time to review them regularly, helping reinforce your understanding of the content and make it easier to recall the information later.
-- Follow knowledgeable individuals: Follow people who share your interests or are well-versed in areas you want to explore further. This will enable you to learn from their highlights and get inspired.
-- Collaborate with others: Glasp makes collaborating on web content with colleagues or classmates easy. Use this feature to share your notes and annotations with others and get feedback to deepen your understanding of the topic.
-- Join the Glasp community: Join the Glasp Slack community to connect with like-minded individuals, share tips, and stay updated on the latest Glasp features and updates.
+- **Use tags:** Organise your highlights and saved web pages into categories using descriptive tags, making it easier to find them later.
+- **Review your highlights:** Set aside time to review them regularly, helping reinforce your understanding of the content and make it easier to recall the information later.
+- **Follow knowledgeable individuals:** Follow people who share your interests or are well-versed in areas you want to explore further. This will enable you to learn from their highlights and get inspired.
+- **Collaborate with others:** Glasp makes collaborating on web content with colleagues or classmates easy. Use this feature to share your notes and annotations with others and get feedback to deepen your understanding of the topic.
+- **Join the Glasp community:** Join the Glasp Slack community to connect with like-minded individuals, share tips, and stay updated on the latest Glasp features and updates.
 
 ## Try Glasp Today!
 
