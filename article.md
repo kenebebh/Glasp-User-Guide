@@ -185,7 +185,9 @@ You can find people who have also highlighted the pages that you have, or read t
 
 1. On the Glasp dashboard, click on your profile picture at the extreme top right of the page.
 2. Click on “Find like minds”.
+
    ![like-minded-minds](https://paper-attachments.dropboxusercontent.com/s_D84149E85DD903EE13FFC7F9EA0F099359DB1860CD0596CF213CB410B04388C0_1681513941785_find+likeminds.png)
+
 3. You can choose to find like-minded people with either Articles or Kindles. If you choose Articles, Glasp will show you people who have highlighted the same articles as you, and if you choose Kindles, Glasp will show you people who have read the same books as you on Kindle.
 
 ## Best Practices for using Glasp
