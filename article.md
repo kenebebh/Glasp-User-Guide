@@ -206,4 +206,4 @@ Now that you've learned how to use Glasp, it's time to start highlighting your f
 
 Glasp constantly updates and improves its platform based on user feedback and suggestions. This means you can expect new and exciting features to be added to Glasp over time, making it an even more valuable tool for web content curation and sharing.
 
-Why not try it today? **[Sign up for Glasp]**(https://glasp.co/) and start highlighting, saving, organising and sharing your favourite content immediately. You'll be amazed at how much more efficient and effective your web browsing can be with Glasp at your fingertips!
+Why not try it today? **[Sign up for Glasp](https://glasp.co/)** and start highlighting, saving, organising and sharing your favourite content immediately. You'll be amazed at how much more efficient and effective your web browsing can be with Glasp at your fingertips!
